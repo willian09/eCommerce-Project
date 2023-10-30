@@ -1,0 +1,25 @@
+    // Image intervention //
+https://image.intervention.io/v2/introduction/installation
+- composer require intervention/image
+
+    //  Dropzone //
+https://docs.dropzone.dev/
+https://github.com/dropzone/dropzone
+
+    // Summernote //
+https://summernote.org/getting-started/
+
+    // Doctrine DBAL //
+https://www.doctrine-project.org/projects/doctrine-dbal/en/3.7/index.html
+- require_once 'vendor/autoload.php';
+
+    // Ion-rangeslider //
+http://ionden.com/a/plugins/ion.rangeSlider/start.html
+- npm install ion-rangeslider
+
+    // Shopping Cart //
+https://github.com/hardevine/LaravelShoppingcart
+- composer require hardevine/shoppingcart
+
+    // MailTrap //
+https://mailtrap.io/
